@@ -1,0 +1,12 @@
+project:
+  name: human-in-the-loop-ocr
+  version: 0.1.0
+paths:
+  sample_input: data/samples/sample_ocr_input.json
+  sample_ground_truth: data/samples/sample_ground_truth.json
+  outputs_root: outputs
+pipeline:
+  save_iteration_details: true
+  fail_fast: true
+logging:
+  level: INFO

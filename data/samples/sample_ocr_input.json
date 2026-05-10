@@ -1,0 +1,12 @@
+{
+  "document_id": "doc-001",
+  "text": "The qu1ck br0wn fox jumps 0ver the lazy d0g. It was a sunr1se m0rning, and the rnarket was qu1et.",
+  "tokens": [
+    "The", "qu1ck", "br0wn", "fox", "jumps", "0ver", "the", "lazy", "d0g.",
+    "It", "was", "a", "sunr1se", "m0rning,", "and", "the", "rnarket", "was", "qu1et."
+  ],
+  "confidences": [
+    0.98, 0.61, 0.59, 0.96, 0.95, 0.57, 0.99, 0.95, 0.63,
+    0.99, 0.97, 0.98, 0.62, 0.58, 0.97, 0.98, 0.52, 0.96, 0.64
+  ]
+}

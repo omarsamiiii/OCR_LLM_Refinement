@@ -1,0 +1,4 @@
+ocr:
+  engine_name: mock_json_ocr
+  use_token_confidence: true
+  default_confidence: 0.75

@@ -1,0 +1,12 @@
+correction:
+  model_name: provider_based_corrector
+  max_iterations: 3
+  early_stop_risk_threshold: 0.25
+  enable_generic_cleanup: true
+  provider:
+    name: ollama   # mock | gemini | ollama
+    model: llama3.1
+    endpoint: http://localhost:11434/api/generate
+    timeout_seconds: 20
+    temperature: 0.0
+    fallback_to_mock_on_error: false

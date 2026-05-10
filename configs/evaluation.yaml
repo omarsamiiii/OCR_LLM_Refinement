@@ -1,0 +1,8 @@
+evaluation:
+  compute_cer: true
+  compute_wer: true
+  compute_token_f1: true
+risk:
+  medium_threshold: 0.33
+  high_threshold: 0.66
+  calibrator_scale: 0.95

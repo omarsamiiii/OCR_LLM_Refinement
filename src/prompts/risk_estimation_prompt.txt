@@ -1,0 +1,3 @@
+Estimate residual OCR risk after correction.
+Flag potentially incorrect tokens for selective human verification.
+Assign low/medium/high risk with rationale.
